@@ -1,0 +1,48 @@
+h1{
+     text-align: center;
+     font-family: 'Poppins', sans-serif;
+}
+
+a:-webkit-any-link{
+     font-family: 'Poppins', sans-serif;   
+  }
+
+input{
+     font-family: 'Poppins', sans-serif;
+     width: 500px;
+     height: 40px;
+     display: inline-block;
+     margin: auto;
+     border-radius: 15px;
+}
+
+body{
+      background-color: lightsteelblue;
+ }
+
+ul.pagination{
+        background-color: transparent;
+}
+
+ul{
+        box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2); 
+        border-radius: 15px;
+        background-color: rgba(255, 255, 255, .15);
+        backdrop-filter: blur(5px);
+}
+
+button{
+        background-color: snow;
+        border-radius: 15px;
+        display: inline-flexbox;
+        color: darkslategray;
+        object-position: center;
+        height: 40;
+        width: 250px;
+        text-align: center;
+        text-decoration: none;
+        margin: 10px;
+        font-size: 17px;
+        font-family: 'Poppins', sans-serif;
+}
+      
